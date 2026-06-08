@@ -1,0 +1,13 @@
+{
+  "usuarios": [
+    {
+      "username": "pedro",
+      "nombre": "Pedro - Supervisor",
+      "rol": "supervisor",
+      "password_hash": "$2b$12$placeholder_change_on_first_login"
+    }
+  ],
+  "empresas": [
+    {"ruc": "20467225155", "razon_social": "VISUAL IMPACT S.A.C.", "contador_asignado": "pedro"}
+  ]
+}
